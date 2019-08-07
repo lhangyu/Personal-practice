@@ -1,0 +1,14 @@
+E:\lhy\Personal-practice\Personalpractice\bin\Debug\netcoreapp2.2\Personalpractice.deps.json
+E:\lhy\Personal-practice\Personalpractice\bin\Debug\netcoreapp2.2\Personalpractice.runtimeconfig.json
+E:\lhy\Personal-practice\Personalpractice\bin\Debug\netcoreapp2.2\Personalpractice.runtimeconfig.dev.json
+E:\lhy\Personal-practice\Personalpractice\bin\Debug\netcoreapp2.2\Personalpractice.dll
+E:\lhy\Personal-practice\Personalpractice\bin\Debug\netcoreapp2.2\Personalpractice.pdb
+E:\lhy\Personal-practice\Personalpractice\obj\Debug\netcoreapp2.2\Personalpractice.csprojAssemblyReference.cache
+E:\lhy\Personal-practice\Personalpractice\obj\Debug\netcoreapp2.2\Personalpractice.csproj.CoreCompileInputs.cache
+E:\lhy\Personal-practice\Personalpractice\obj\Debug\netcoreapp2.2\Personalpractice.RazorAssemblyInfo.cache
+E:\lhy\Personal-practice\Personalpractice\obj\Debug\netcoreapp2.2\Personalpractice.RazorAssemblyInfo.cs
+E:\lhy\Personal-practice\Personalpractice\obj\Debug\netcoreapp2.2\Personalpractice.AssemblyInfoInputs.cache
+E:\lhy\Personal-practice\Personalpractice\obj\Debug\netcoreapp2.2\Personalpractice.AssemblyInfo.cs
+E:\lhy\Personal-practice\Personalpractice\obj\Debug\netcoreapp2.2\Personalpractice.RazorTargetAssemblyInfo.cache
+E:\lhy\Personal-practice\Personalpractice\obj\Debug\netcoreapp2.2\Personalpractice.dll
+E:\lhy\Personal-practice\Personalpractice\obj\Debug\netcoreapp2.2\Personalpractice.pdb
